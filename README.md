@@ -1,4 +1,4 @@
-![Masterhead](https://github.com/VineetGargOfficials/VineetGargOfficials/blob/main/Purple%20White%20Marketing%20Manager%20Modern%20Profile%20LinkedIn%20Article%20Cover%20Image.png)
+![Masterhead](https://github.com/akashgautam013/akashgautam013/blob/9eeed048588878b5c43e120eae655c533f913f52/cover%20image.png)
 
 <h1 align="center">Hi 👋, I'm Vineet Garg</h1>
 <h3 align="center">Future-Focused Data Engineering Scholar | BCA Aspirant | An Aspiring Data Explorer</h3>
