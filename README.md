@@ -1,7 +1,7 @@
 ![Masterhead](https://github.com/akashgautam013/akashgautam013/blob/9eeed048588878b5c43e120eae655c533f913f52/cover%20image.png)
 
 <h1 align="center">Hi 👋, I'm Akash Gautam</h1>
-<h3 align="center">Career in Web Development | Focus on Goals(Knowledge in Web Development) <br> Problem Solver</h3>
+<h3 align="center">Career in Web Development | Focus on Goals(Knowledge in Web Development) <br> Problem Solver</h3> 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/akashgautam013/akashgautam013/blob/main/com-webp-to-gif-converter-unscreen.gif">
 
